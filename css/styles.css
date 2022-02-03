@@ -19,3 +19,9 @@ body{
     background-size: contain;
     background-repeat: no-repeat;
   }
+
+  .hello{
+    text-align: center;
+    font-weight: bold;
+    font-size: 4rem;
+  }
