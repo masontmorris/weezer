@@ -1,27 +1,21 @@
-body{
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
-    background-color: #009ACC;
+    background-color: #009acc;
     display: grid;
     place-items: center;
-  }
-  .header{
+}
+.header {
     width: 100%;
     height: 300vh;
-  }
-  .weezer{
-    background-image: url('/wp2039298-weezer-wallpapers.png');
+}
+.weezer {
+    background-image: url("/wp2039298-weezer-wallpapers.png");
     width: 371px;
     height: 700px;
     object-fit: contain;
     background-size: contain;
     background-repeat: no-repeat;
-  }
-
-  .hello{
-    text-align: center;
-    font-weight: bold;
-    font-size: 4rem;
-  }
+}
